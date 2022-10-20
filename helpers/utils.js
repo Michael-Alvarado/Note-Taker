@@ -21,8 +21,4 @@ const readWriteFile = (newData, file) => {
     });
 };
 
-// const deleteFile = ('', (req, res) => {
-
-// });
-
 module.exports = { readFile, writeFile, readWriteFile };
