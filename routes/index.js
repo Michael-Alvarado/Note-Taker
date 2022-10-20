@@ -1,3 +1,4 @@
+// Importing express and modular router from notes
 const express = require("express");
 const notes = require("../lib/notes");
 
