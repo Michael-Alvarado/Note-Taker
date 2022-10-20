@@ -1,8 +1,8 @@
 const express = require("express");
-const routeToNotes = require("../lib/notes");
+const notes = require("../lib/notes");
 
 const app = express();
 
-app.use("/notes", routeToNotes);
+app.use("/notes", notes);
 
 module.exports = app;
