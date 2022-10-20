@@ -1,17 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "default"
+        "title": "Add more notes",
+        "text": "test delete functionality",
+        "id": "96b6fd36-7798-4213-bf3e-be70281559af"
     },
     {
-        "title": "test 2",
-        "text": "test 2",
-        "id": "b3d63718-b31e-4ebc-89ad-b1018ccee1d4"
+        "title": "how many notes",
+        "text": "so many",
+        "id": "2ff9fe71-e3f5-4657-91bd-93502ab500b6"
     },
     {
-        "title": "testing",
-        "text": "testing",
-        "id": "b1a9903d-db03-466a-80ab-92b8f2a413e5"
+        "title": "what's this note",
+        "text": "who knows",
+        "id": "3ee86bbe-726b-4ee1-9467-90151f7b99b1"
     }
 ]
